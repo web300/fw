@@ -1,0 +1,59 @@
+/*  */
+
+.TL1{
+	height: auto;
+}
+.bt-c{width: 100%;height: 45px;}
+.bt-c p{display: block;float: left;width: auto;color: #4c4c4c;font-size: 22px;line-height: 42px;}
+.bt-c a{float: right; line-height: 30px;font-size: 14px;color: #666;margin:6px 0 0 0 ;height: 30px;display: inline-block;}
+.bt-c>a:hover{color: #2d72eb;}
+/***Ⅰ专题合集  ***/
+.hj-list{position: relative;margin:15px auto;width: 1200px;}
+.hj-info{overflow: hidden;width: 1210px;}
+.hj-list-c{height: auto;display: block;    overflow: hidden;}
+.hj-list-c>ul{display: table;width: 1240px;margin-top: 10px;}
+.hj-list-c>ul li{display: block;float: left;width: 280px;height: 185px;background: #fff;margin:0 24px 20px 0;transition: all .2s linear;-webkit-transition: all .2s linear;border: 1px solid #f2f2f2;}
+.hj-list-c>ul li img{width: 280px;height: 140px;}
+.hj-list-c>ul li span{display: block;float: left; width: 180px;height: 26px;line-height: 26px;margin: 8px 0 0 20px;color:#404040;font-size: 16px;overflow: hidden;}
+.hj-list-c>ul li u{display: block;float: right; text-decoration: none;width: 70px;height: 24px;  text-align: center;line-height: 24px;  background: #2577e3;border-radius:4px;color: #fff;font-size: 12px;margin: 8px 4px 0 0;}
+
+.hj-list-c>ul li:hover u{background: #589cf6;}
+.hj-list-c>ul li p{width: 250px;height: 40px;margin: 0 auto;color: #a6a6a6;font-size: 12px;line-height: 20px;overflow: hidden;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;word-break: break-all;}
+.hj-list-c>ul li i{display: block;float: left;width: auto;padding: 0 12px;height: 22px;line-height: 22px;text-align: center;font-size: 12px;color: #8ba8a3;border: 1px solid #8ba8a3;border-radius: 160px;margin: 10px 16px;}
+.hj-list-c>ul li:hover{margin-top: -5px;margin-bottom: 25px;-webkit-box-shadow: 0 15px 30px rgba(0,0,0,0.1);-moz-box-shadow: 0 15px 30px rgba(0,0,0,0.1);box-shadow: 0 15px 30px rgba(0,0,0,0.1);}
+.hj-list-c>ul li:hover i{color: #2577e3;border: 1px solid #2577e3;}
+.hj-list-c>ul li:hover span{color: #2577e3;}
+.hj-list-c>ul li:hover p{color: #595959;}
+.hj-list-c .time{width: 250px;margin: 5px auto;height: 26px;line-height: 26px;color: #8ba8a3;font-size: 12px;}
+.hj-span {text-align: center;width: 260px;}
+
+.hj-list-c .kfb_class{font-size: 16px; color: #333;margin: 10px 0 15px;}
+.kfb_class a:link{font-size: 16px;color: #333;text-decoration: none;}
+.kfb_class a:visited{color: #333;text-decoration: none;}
+.kfb_class a:hover{color: #F60;text-decoration: none;}
+.kfb_class a:active{color: #333;text-decoration: none;}
+
+.tixinga:link{font-family: "Microsoft YaHei";font-size: 16px;text-decoration: none;display: block;}
+.tixinga:visited{text-decoration: none;display: block;}
+.tixinga:hover{font-family: "Microsoft YaHei";font-size: 0px !important;text-decoration: none;background-image: url(../images/tixing.gif);height: 19px;width: 77px;background-repeat: no-repeat;background-position: center;display: block;color: #05beda;}
+.tixinga:active{text-decoration: none;display: block;}
+.tixing_heia:link{font-family: "Microsoft YaHei";font-size: 12px;color: #000;text-decoration: none;display: block;}
+.tixing_heia:visited{font-family: "Microsoft YaHei";font-size: 12px;color: #000;text-decoration: none;display: block;}
+.tixing_heia:hover{font-family: "Microsoft YaHei";font-size: 0px;text-decoration: none;background-image: url(../images/tixing.gif);height: 19px;width: 77px;background-repeat: no-repeat;background-position: center;display: block;color: #05beda;}
+.tixing_heia:active{font-family: "Microsoft YaHei";font-size: 12px;color: #000;text-decoration: none;display: block;}
+#show1 table tr td #link1{font-family: Arial;font-size: 20px;line-height: 35px;color: #F60;height: 35px;width: 395px;background-color: #F6FCFF;border: 1px solid #F6FCFF;}
+#show1 table tr td button{background-image: url(../images/fzlb.gif);outline: 1px solid #D3E0E7;height: 33px !important;border: 1px solid #D3E0E7;height: 33px;width: 100px;border-top-style: none;border-right-style: none;border-bottom-style: none;border-left-style: none;text-align: center;}
+
+.kfb_class{margin: 10px 0 15px;}
+
+.nextpg{height: 45px;line-height: 45px;color: #666;cursor: pointer;font-size: 14px;}
+.nextpg:hover{color: #589cf6;}
+.tjwrap{position: relative;overflow: hidden;    height: 220px; width: 100%;}
+.tjwrap ul{width: 2600px;
+position: absolute;
+left: 0;top: 0;
+transition: all .3s linear;
+-webkit-transition: all .3s linear;
+-moz-transition: all .3s linear;
+-o-transition: all .3s linear;
+}
